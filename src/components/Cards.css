@@ -1,0 +1,16 @@
+.header {
+    width: 100%
+}
+
+.footer {
+    width: 100%
+}
+
+.img-day {
+    text-align: right
+}
+
+div#nextDays div {
+    float: left;
+    min-width: 100px;
+}
